@@ -1,0 +1,275 @@
+<resources>
+    <string name="app_name">Nandan</string>
+    <string name="nav_username">Username</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="startscreen_text_1">New User ? Register Here</string>
+    <string name="startscreen_text_2">Already Registered? Login Here </string>
+
+    <string name="toast_empty_fields">Please fill the required field</string>
+    <string name="toast_sent">Sent</string>
+    <string name="toast_downloading">Downloading...</string>
+    <string name="toast_downloaded">Downloaded</string>
+    <string name="toast_signout">Signed Out</string>
+    <string name="toast_loading">Data loading</string>
+    <string name="toast_valid_email">Enter valid email address!</string>
+    <string name="toast_valid_password">Password too short, enter minimum 6 characters!</string>
+    <string name="toast_empty_password">Enter password!</string>
+    <string name="toast_registered">Successfully Registered</string>
+    <string name="toast_submitted">Details Submitted</string>
+    <string name="auth_failed">Authentication Failed</string>
+
+    <string name="menu_item_signout">Sign Out</string>
+    <string name="menu_item_share">Share</string>
+    <string name="menu_item_exit">Exit</string>
+    <string name="title_activity_home">Nandan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="toast_unable_to_fetch">Unable to fetch data</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="google_maps_key">AIzaSyAJuZBm7ZJJvzlFnlM-_PGq9j17nwWnqiw</string>
+
+    <string name="ancInfo">Antenatal care (also known as Prenatal care) refers to the regular medical and nursing care recommended for women during pregnancy. The importance of antenatal care is often overdone in most households as the would-be mother is flooded with advice about what is right and what is wrong for her.
+When should you start?
+Make your first visit to an antenatal clinic as soon as possible after a missed period. This will ensure that you have professional help whenever you need it.
+
+Importance of early attendance
+You may be carrying some diseases such as Toxoplasmosis before pregnancy without any visible symptom. In such a case, it is important to identify and treat it early to avoid complications.
+The trip to the gynaecologist has other benefits too. Your blood pressure can be checked and your weight can be monitored. Besides, any factors that could influence the baby’s development such as nutritional deficiencies (including excessive vomiting), infections and potentially hazardous drug therapy can be detected.
+Complications like intra uterine growth retardation can be screened and prevented.
+The gynaecologist will also help you plan for the delivery, advice you on the care of the newborn and your future reproductive health.</string>
+    <string name="visit1Goals">Confirm pregnancy and EDD, classify women for basic ANC (four visits) or more specialized care.
+Screen, treat and give
+preventive measures.
+Develop a birth
+and emergency plan.
+Advise and counsel</string>
+
+    <string name="visit1History">Assess significant
+symptoms.Take
+psychosocial, medical
+and obstetric history.
+Confirm pregnancy
+and calculate EDD.
+Classify all women (in
+some case</string>
+
+    <string name="visit1Examination">Complete general, and
+obstetrical
+examination, BP</string>
+
+    <string name="visit1screening_test">Haemoglobin
+Syphilis
+HIV
+Proteinuria
+Blood/Rh group
+Bacteriuria</string>
+
+    <string name="visit1Treatments">Syphilis
+ARV if eligible
+Treat bacteriuria if
+indicated</string>
+
+    <string name="visit1PreventiveMeasures">Tetanus toxoid
+Iron and folate+</string>
+    <string name="visit1HealthEducation">Self-care, alcohol and
+tobacco use, nutrition,
+safe sex, rest, sleeping
+under ITN, birth and
+emergency plan</string>
+
+
+    <string name="visit2Goals">Assess maternal
+and fetal well-being.
+Exclude PIH and
+anaemia.
+Give preventive
+measures.
+Review and modify
+birth and emergency
+plan. Advi</string>
+
+    <string name="visit2History">Assess significant
+symptoms. Check
+record for previous
+complications and
+treatments during
+the pregnancy.
+Re-classification if
+needed</string>
+
+    <string name="visit2Examination">Anaemia, BP,
+fetal growth, and
+movements</string>
+
+    <string name="visit2screening_test">Bacteriuria</string>
+
+    <string name="visit2Treatments">Antihelminthic**,
+ARV if eligible
+Treat bacteriuria if
+indicated</string>
+
+    <string name="visit2PreventiveMeasures">Tetanus toxoid,
+Iron and folate
+IPTp
+ARV</string>
+    <string name="visit2HealthEducation">Birth and emergency
+plan, reinforcement of
+previous advice</string>
+
+
+    <string name="visit3Goals">Assess maternal and
+fetal well-being.
+Exclude PIH, anaemia,
+multiple pregnancies.
+Give preventive
+measures.
+Review and modify
+birth and emergency
+plan. Advise and
+counsel</string>
+
+    <string name="visit3History">Assess significant
+symptoms. Check
+record for previous
+complications and
+treatments during
+the pregnancy.
+Re-classification if
+needed</string>
+
+    <string name="visit3Examination">Anaemia, BP,
+fetal growth, multiple
+pregnancy</string>
+
+    <string name="visit3screening_test">Bacteriuria</string>
+
+    <string name="visit3Treatments">Antihelminthic**,
+ARV if eligible
+Treat bacteriuria if
+indicated</string>
+
+    <string name="visit3PreventiveMeasures">Iron and folate
+IPTp
+ARV</string>
+    <string name="visit3HealthEducation">Birth and emergency
+plan, infant feeding,
+postpartum/postnatal
+care, pregnancy
+spacing, reinforcement
+of previous advice </string>
+
+
+    <string name="visit4Goals">Assess maternal
+and fetal well-being.
+Exclude PIH and
+anaemia.
+Give preventive
+measures.
+Review and modify
+birth and emergency
+plan. Advi</string>
+
+    <string name="visit4History">Assess maternal and
+fetal well-being.
+Exclude PIH, anaemia,
+multiple pregnancy,
+malpresentation.
+Give preventive
+measures. Review and
+modify birth and
+emergency plan.
+Advise and counsel</string>
+
+    <string name="visit4Examination">Anaemia, BP, fetal
+growth and
+movements, multiple
+pregnancy,
+malpresentation</string>
+
+    <string name="visit4screening_test">Bacteriuria</string>
+
+    <string name="visit4Treatments">
+ARV if eligible
+Treat bacteriuria if
+indicated</string>
+
+    <string name="visit4PreventiveMeasures">Iron and folate
+ARV</string>
+    <string name="visit4HealthEducation">Birth and emergency
+plan, infant feeding,
+postpartum/postnatal
+care, pregnancy
+spacing, reinforcement
+of previous advice</string>
+
+
+    <string name="month1_3Yourbody">By the end of the third month, you may have gained several pounds. You may be particularly tired due to hormonal changes. Plan to get extra rest, sneaking in naps when you can and slow down. You should feel more energetic by the end of the third month.
+You may need to urinate more frequently now. This is common during the first trimester of pregnancy, and again right before the baby is born.For comfort, start wearing loosely fitting clothes. See your practitioner by the second month to confirm your pregnancy. Regular check-ups will be scheduled for your prenatal care.
+</string>
+    <string name="month1_3DietPlan">In the second month of pregnancy, you may suffer from morning sickness and this can turn you off food. However, you should persist in eating properly, as 2nd month of pregnancy diet place a crucial role; this is when the neural tube begins forming and later develops into your baby’s brain, spinal cord and nerves. In addition, basic circulatory system and heart beat also develop during this period. Hence, 2nd month of pregnancy diet is extremely important.</string>
+
+
+    <string name="month1_3Yourfeeling">Talk to your partner about how you are feeling. Ask for help, especially if you are tired. During this time you may be feeling overweight and clumsy. Remember the extra weight is preparing your body for pregnancy and breastfeeding, not fat.
+
+During pregnancy, it is common to have mood swings in your feelings about sex. It is not harmful to have sexual relations during pregnancy. But remember, it is very important to practice safe sex to protect you and your baby. Be sure to check with your healthcare provider about sexual activity during this time.
+</string>
+
+
+    <string name="month4Yourbody">You may notice you have more energy. Nausea and fatigue may stop. You may also notice that your belly will look larger because the baby has grown.</string>
+
+    <string name="month4DietPlan">During pregnancy, your need for iron increases. To be sure you are getting enough iron, eat meats, leafy green vegetables, whole grain breads, dried fruits, and beans</string>
+
+    <string name="month5Yourbody">Changes in your circulation require you to stand and move regularly. Continue to do this throughout the remainder of your pregnancy.
+
+Your breasts may begin to secrete a yellowish fluid called colostrum in preparation for breastfeeding and you may begin to feel the baby move during this month.</string>
+
+    <string name="month5DietPlan">Be sure to include food rich in Vitamin C in your diet. Your body does not store Vitamin C, so it is important to get a fresh supply every day. Good sources of Vitamin C are oranges, broccoli, and tomatoes.</string>
+
+    <string name="month5ChoosingDoc">One thing you must think about before your admission to the hospital is who will take care of the baby after the delivery. This is a good time in your pregnancy to start looking for a physician for your baby if you do not already have one chosen. Talk to your friends and ask whom they use for their children and if they are happy with them. Many pediatricians and family care physicians will set appointments with you so that you can interview them. It is a good idea to try and select one that is close to where you live! </string>
+    <string name="month6Yourbody">You may gain 3-4 pounds this month. Your feet may swell during the latter stages of pregnancy. Putting your feet up may help reduce any ankle swelling that may occur. Shop for wide, comfortable shoes, preferably with a flat heel.</string>
+
+    <string name="month6DietPlan">You may crave certain foods or find other foods intolerable. If this happens, try to find substitutes that will provide the right nutrients.</string>
+
+    <string name="month6Hospital">If you have not already pre-registered at the hospital you will be delivering at, this is a good time to do so. You can find out how to do so by discussing it with your healthcare provider or calling the hospital directly. </string>
+
+
+    <string name="month7Yourbody">You may gain 3-4 pounds this month. You may tire more easily. Again, ask for help. If you work, try to work shorter hours or a more flexible schedule if possible. Rest when you can.</string>
+
+    <string name="month7Yourfeeling">Mood swings and increased irritability are common during the last three months of pregnancy. Be sure to discuss your feelings with your partner.
+
+Begin childbirth preparation classes with your partner. These classes will offer useful information on labor and birth, and what to expect.</string>
+
+    <string name="month8Yourbody">You may gain 3-4 pounds this month. Increases in frequency of urination, backaches, anxiety, heartburn, and shortness of breath occur at this time. Shop for larger maternity clothes, if necessary. You will be growing quite a bit these last few weeks.</string>
+
+    <string name="month8DietPlan">What you eat is still important. If you have trouble sleeping, try drinking something warm and lying on your side with pillows to support your body. Taking a warm shower before bed also helps to relax you and make you sleepy. </string>
+
+
+    <string name="month9Yourbody">You may gain 3-4 pounds this month. Your stomach may change shape as the baby begins to position itself for birth. It may be easier to breathe now, but you may have to urinate more often.
+
+Get plenty of rest!
+
+Make arrangements for your hospital stay. Keep important phone numbers and papers close by. Pack your bag for the hospital, and plan how you will get there at different times of the day or night. Make sure you have everything you will need when you come home from the hospital such as food and diapers.</string>
+
+
+    <string name="riskIntro">Most of the time having a baby is a natural process. After a full-term pregnancy, a woman goes into labor on or near her due date and gives birth to a healthy baby. A day or two later she leaves the hospital to begin day-to-day life with her growing family. But not all pregnancies go smoothly. Some women experience what doctors refer to as a high-risk pregnancy.
+
+A pregnancy is considered high-risk when there are potential complications that could affect the mother, the baby, or both. High-risk pregnancies require management by a specialist to help ensure the best outcome for the mother and baby.</string>
+
+    <string name="riskMaternalAge">Maternal Age. One of the most common risk factors for a high-risk pregnancy is the age of the mother-to-be. Women who will be under age 17 or over age 35 when their baby is due are at greater risk of complications than those between their late teens and early 30s. The risk of miscarriage and genetic defects further increases after age 40.</string>
+
+    <string name="riskBloodPressure">High blood pressure. Even though high blood pressure can be risky for mother and fetus, many women with high blood pressure have healthy pregnancies and healthy children. Uncontrolled high blood pressure, however, can lead to damage to the mother’s kidneys and increases the risk for low birth weight or preeclampsia.</string>
+
+    <string name="riskPreeclampsia">Preeclampsia is a syndrome that includes high blood pressure, urinary protein, and swelling; it can be dangerous or even fatal for the mother or baby if not treated. With proper management, however, most women who develop preeclampsia have healthy babies.</string>
+
+    <string name="riskTetnusToxide"></string>
+
+    <string name="riskSTD">STDs can complicate your pregnancy and may have serious effects on both you and your developing baby. Some of these problems may be seen at birth; others may not be discovered until months or years later. In addition, it is well known that infection with an STD can make it easier for a person to get infected with HIV. Most of these problems can be prevented if you receive regular medical care during pregnancy. This includes tests for STDs starting early in pregnancy and repeated close to delivery, as needed.</string>
+
+    <string name="pmsmaintro"></string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@android:drawable/btn_star_big_off"
+            android:title="About" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="My Baby Data"
+            android:icon="@android:drawable/ic_menu_agenda" />
+
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="@string/menu_item_signout" />
+
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_item_share" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@android:drawable/ic_delete"
+                android:title="@string/menu_item_exit" />
+        </menu>
+    </item>
+
+</menu>

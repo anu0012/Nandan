@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/c9a16f539043f0ccc4edd4faadd16d17919aec6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_0987e0e3a6b31ffe651e201b221a424948033315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/a7e5c64d93c116e6a369c6ca478cdb1677878afa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_bc6903bc94548a2a6386d8d863a3d181e9cbf2c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a82889db80a6235b1770c5049a8a5033613fad63/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/b7248ee70fa0182b21a366c2712421d42840c3f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_98aec98a4b0218fcd10c5dbb777584355cb3ed59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/4915cd3d5788c1a19182bdeb92e6909acae13326/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_71679801ed2b20031dfdb2a9664137a16a374bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/6bff8d92d9964a9e3f37fc8d0d074c36687ba336/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_97336874e37c319f7e8adce12385fd335d266a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/5b59016c4ca6fade7859a28f03fdc7cd8ba96335/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_9d86cce7eb265970dd716acd31bc1f9e5d20e26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/5a39dd2154f7e8d115597404c258dd58543390ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_d01b97754a454de4967e5213b6906851843b432b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/337ede08fe2e2a4479737d5bf728a4f3360f6332/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_07d6b657e8f2d4ad19508c0a0965afd50c946e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/d73676511189dd9a750beefe4f2fbe306e92bcad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_d542c22af8a7731dd6d4bbef71380c09fdf1b639.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="588aaf5ae101c1a512e8e66cba432eca7f35e437">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05d53139065b0af5615361065ce660f3fc464f46/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/51abb82b4fb75756fd6592dc52f865c2623e0c46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_918c82a4cf7f1d1282f289d02a48c4096eddd0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/6c6fccb4c2044cf0ff9bb2675771c56b1e21b3dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_393462b1f819949c33ad4c94b26600ad4bb180be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/9beddda3003362647f806bff84820c6eb496af28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="959e93110fdadc7e1f37b0f0b067c75ad3b546ae">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_bb8cfbe10c48ce326f0c70a4fdc099f75c2f8d6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/b06a5557e23b4f34fc3c4a4cd76278ac4992ca47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_5f8de5ae4500adda1b43761834ec5d93de659bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/d6e9a9c164e14ec6fc3792426b7793a178270d8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_e29f954d5de026bf22f20b2621dab716ca60b4e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/a6c2e61283b96c834bbb0b7f96de102d803b2b3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_6d6df46796868495424c58f99e32de4a4f20056c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/7430bf3fd04d261876f7dcdd98f0247803aeb4d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_ad6a583e6e3b43b0b9e833a29a60308871bd5f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anuragsharma/.android/build-cache/e8eb13ba17c28b4bbf45f450e34d0fce3822834a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/Users/anuragsharma/Downloads/nandan_app/app/build/intermediates/pre-dexed/debug/classes_aa7f460ac028842f52bf6b3f05a603c5f067bcb6.jar" />
+    </item>
+
+</items>

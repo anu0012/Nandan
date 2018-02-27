@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "978655772475",
+    "firebase_url": "https://ogd-health-directory.firebaseio.com",
+    "project_id": "ogd-health-directory",
+    "storage_bucket": "ogd-health-directory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978655772475:android:3d63e9e677741741",
+        "android_client_info": {
+          "package_name": "bumblebee.ogdhealthdirectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978655772475-j3vfj59npoh960kcc16coidtbcgoft8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvzGGv1yLmn9J1Zq9T1PFPUfYNMT7Ijs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978655772475:android:6adf2ff4b0b913a8",
+        "android_client_info": {
+          "package_name": "bumblebee.nandan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978655772475-j3vfj59npoh960kcc16coidtbcgoft8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvzGGv1yLmn9J1Zq9T1PFPUfYNMT7Ijs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
